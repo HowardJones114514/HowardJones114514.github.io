@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://howardjones114514.github.io</id>
+    <title>Howard Jones的碎碎念平台</title>
+    <updated>2023-06-13T09:50:36.112Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://howardjones114514.github.io"/>
+    <link rel="self" href="https://howardjones114514.github.io/atom.xml"/>
+    <subtitle>心有所向，日复一日，必有精进</subtitle>
+    <logo>https://howardjones114514.github.io/images/avatar.png</logo>
+    <icon>https://howardjones114514.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Howard Jones的碎碎念平台</rights>
+    <entry>
+        <title type="html"><![CDATA[六一儿（biǎo）童（yǎn）节]]></title>
+        <id>https://howardjones114514.github.io/post/wtfxxkof61/</id>
+        <link href="https://howardjones114514.github.io/post/wtfxxkof61/">
+        </link>
+        <updated>2023-06-01T12:27:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>祝各位大盆友小盆友鹅童节快乐！！！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>祝各位大盆友小盆友鹅童节快乐！！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年5月20日赛后感言]]></title>
+        <id>https://howardjones114514.github.io/post/20230520race/</id>
+        <link href="https://howardjones114514.github.io/post/20230520race/">
+        </link>
+        <updated>2023-05-28T12:19:34.000Z</updated>
+    </entry>
+</feed>
